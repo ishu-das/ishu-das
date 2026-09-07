@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ishu Das 👋
 
-<!--
-**ishu-das/ishu-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+I'm a first-year ECE student interested in both software and electronics. I'm currently building my foundation in programming, electronics, and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Learning
+
+- 💻 C Programming
+- 🐍 Python
+- ⚡ Electronics & Digital Electronics
+- 🔧 Arduino & Embedded Systems
+- 🔀 Git & GitHub
+
+### 🔍 Areas I'm Exploring
+
+- Software Development
+- Embedded Systems
+- IoT & Automation
+- Industrial Technology
+
+### 🚀 My Goals
+
+- Build practical engineering projects
+- Strengthen my programming fundamentals
+- Explore embedded systems and industrial automation
+- Develop skills for both software and electronics careers
+
+### 📚 Currently Working On
+
+Learning the fundamentals and building small projects as I progress through my first year of engineering.
+
+---
+
+### 📫 Connect With Me
+
+I'm currently building my professional network and portfolio.
